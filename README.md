@@ -16,14 +16,6 @@ Large-scale civilization game built in **Luau**, with custom gameplay systems, U
 
 > Currently in active development.
 
-### ⚡ HydroTrader
-Hydropower scheduling and optimization project focused on reservoir operation, electricity markets and mathematical optimization.
-
-> In development.
-
-### 📊 Underbuilt Analytics
-Analytics tooling for YouTube built with **Python**, the YouTube APIs and **MCP**, allowing AI tools to query structured channel analytics.
-
 ## Interests
 
 `Energy systems` · `Optimization` · `Simulation` · `Fluid dynamics` · `AI tooling`
