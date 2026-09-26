@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sondre Aasnes
 
-<!--
-**SondreAasnes/SondreAasnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Renewable Energy Engineering @ NTNU**
 
-Here are some ideas to get you started:
+I build software, simulations and optimization tools — usually somewhere between engineering, data and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 🌙 [NightBrightness](https://github.com/SondreAasnes/NightBrightness)
+Windows brightness automation built with **C# / .NET**.
+
+Automatic day/night brightness, sunrise and sunset scheduling, Windows theme switching and NVIDIA display integration.
+
+### 🏛️ CivSim
+Large-scale civilization game built in **Luau**, with custom gameplay systems, UI and a Blender-based asset pipeline.
+
+> Currently in active development.
+
+### ⚡ HydroTrader
+Hydropower scheduling and optimization project focused on reservoir operation, electricity markets and mathematical optimization.
+
+> In development.
+
+### 📊 Underbuilt Analytics
+Analytics tooling for YouTube built with **Python**, the YouTube APIs and **MCP**, allowing AI tools to query structured channel analytics.
+
+## Interests
+
+`Energy systems` · `Optimization` · `Simulation` · `Fluid dynamics` · `AI tooling`
+
+## Tech
+
+**Languages:** Python · C# · TypeScript · Luau  
+**Tools:** Git · Cloudflare · Blender · MCP
